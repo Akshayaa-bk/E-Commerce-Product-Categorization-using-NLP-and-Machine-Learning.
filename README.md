@@ -8,8 +8,7 @@ The rapid growth of e-commerce necessitates efficient product classification to 
 Dataset Used:
 https://zenodo.org/records/3355823
 
-Methodology:
-image
+
 
 Text Normalization Techniques Used:
 1. Case Folding
