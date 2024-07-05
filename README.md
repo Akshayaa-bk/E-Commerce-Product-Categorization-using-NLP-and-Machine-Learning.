@@ -31,25 +31,5 @@ Lemmatization
 About
 This repository classifies e-commerce products using NLP and ML. The process involves text normalization, vectorization (TF-IDF, Bag of Words, word2Vec, fastText, BERT), and classification (SVM, KNN, Random Forest, LightGBM, XGBoost). It handles four categories: Electronics, Household, Books, and Clothing & Accessories.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-99.8%
- 
-Python
-0.2%
-Footer
-© 20
+
+
